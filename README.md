@@ -1,2 +1,5 @@
 ##  Progresso nos estudos
-Meu progresso nas linguagens citadas
+
+Repositório feito para documentar meu progresso na programação
+recebendo atualizações diárias, nas linguagens, ferramentas e frameworks,
+que eu estou aprendendo!
